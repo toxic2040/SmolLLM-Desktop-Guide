@@ -1,0 +1,11 @@
+# Exclude large/isolated items for "smol" footprint
+models/
+data/
+env/
+rag_index/
+*.gguf
+*.bin
+*.pyc
+__pycache__/
+.DS_Store
+
